@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://webrootantivirusbestsoftware.readthedocs.io/en/latest/
